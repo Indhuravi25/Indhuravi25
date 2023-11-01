@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Indhuravi25
-- 👀 I’m interested in creating ott platform 
+- 👀 I’m interested in software field 
 - 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on ott platform based project 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me indhuravi942@gmail.com
 
 <!---
